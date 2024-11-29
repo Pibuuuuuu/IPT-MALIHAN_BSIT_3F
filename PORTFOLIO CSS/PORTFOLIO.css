@@ -1,0 +1,30 @@
+<style>
+.port{
+text-align:center;
+background-color:cyan;
+padding:1px;
+margin:1px;
+}
+
+.back{
+text-align:center;
+padding:10px;
+margin-bottom:60%;
+margin-left:5px;
+border:5px solid black;
+border-width:5px;
+inline-size:10%;
+background-color:pink;
+color:white;
+}
+.headname{
+color:maroon;
+}
+.main h3 {
+color:maroon;
+}
+
+.pic {
+
+}
+</style>
